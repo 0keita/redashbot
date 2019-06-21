@@ -1,6 +1,6 @@
 {
   "name": "redashbot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Slack Bot for re:dash",
   "main": "index.js",
   "engines": {
@@ -10,6 +10,9 @@
   "dependencies": {
     "botkit": "^0.2.2",
     "request": "^2.74.0",
+    "child_process": "",
+    "puppeteer": "",
+    "chromy": "",
     "tempfile": "^1.1.1",
     "webshot": "^0.18.0"
   }
